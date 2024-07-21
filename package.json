@@ -1,13 +1,13 @@
 {
-  "name": "Oceanserver",
+  "name": "Happyroom",
   "version": "1.0.0",
-  "productName": "Ocean Launcher",
+  "productName": "Happyroom Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "babybear(https://github.com/BabyBear7/Oceanserver) Helios Launcher Poke [Daniel Scalzi (https://github.com/dscalzi/)]",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/BabyBear7/Oceanserver",
+  "homepage": "https://github.com/sova0413/happyroom",
   "bugs": {
-    "url": "https://github.com/BabyBear7/Oceanserver/issues"
+    "url": "https://github.com/sova0413/happyroom/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BabyBear7/Oceanserver.git"
+    "url": "git+https://github.com/sova0413/happyroom.git"
   }
 }
