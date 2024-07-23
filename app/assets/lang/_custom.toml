@@ -8,13 +8,13 @@ mediaGitHubURL = "https://github.com/sova0413/happyroom"
 mediaTwitterURL = "#"
 mediaInstagramURL = "#"
 mediaYouTubeURL = "#"
-mediaDiscordURL = "https://aztra.xyz/invite/pC6XSDJQ"
+mediaDiscordURL = "https://discord.com/invite/yYzEJ4Qe"
 
 [ejs.settings]
 sourceGithubLink = "https://github.com/sova0413/happyroom"
 supportLink = "https://github.com/sova0413/happyroom/issues"
 
 [ejs.welcome]
-welcomeHeader = "오션서버에 오신 것을 환영합니다!"
-welcomeDescription = "반야생, RPG 오션서버입니다."
-welcomeDescCTA = "몇번의 클릭만 더 하시면 됩니다!"
+welcomeHeader = "해피룸에 오신 것을 환영합니다!"
+welcomeDescription = "해피룸입니다."
+welcomeDescCTA = "몇번만 더 클릭하시면 됩니다!"
